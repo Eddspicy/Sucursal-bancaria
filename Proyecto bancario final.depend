@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1626306498 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\proyecto bancario final\main.c
+	"pilademovimientos.h"
+	"cliente.h"
+	"Fila.h"
+
+1626218840 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\proyecto bancario final\pilademovimientos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1626222776 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\proyecto bancario final\cliente.h
+	"pilademovimientos.h"
+
+1626302481 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\proyecto bancario final\fila.h
+	"pilademovimientos.h"
+	"cliente.h"
+
+1626286079 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\proyecto bancario final\pilademovimientos.c
+	"pilademovimientos.h"
+
+1626305039 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\proyecto bancario final\cliente.c
+	"pilademovimientos.h"
+	"cliente.h"
+
+1626305918 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\proyecto bancario final\fila.c
+	"pilademovimientos.h"
+	"cliente.h"
+	"Fila.h"
+
+1627169858 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 2 (equipo 8)\cliente.c
+	"pilademovimientos.h"
+	"cliente.h"
+
+1626218842 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 2 (equipo 8)\pilademovimientos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1627169839 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 2 (equipo 8)\cliente.h
+	"pilademovimientos.h"
+
+1627169869 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 2 (equipo 8)\fila.c
+	"pilademovimientos.h"
+	"cliente.h"
+	"Fila.h"
+
+1626302482 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 2 (equipo 8)\fila.h
+	"pilademovimientos.h"
+	"cliente.h"
+
+1627170059 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 2 (equipo 8)\main.c
+	"pilademovimientos.h"
+	"cliente.h"
+	"Fila.h"
+
+1626286080 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 2 (equipo 8)\pilademovimientos.c
+	"pilademovimientos.h"
+
